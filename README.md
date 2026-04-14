@@ -1,14 +1,8 @@
 # Oi, eu sou André 👋
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/96473ffd-a058-42ce-96bb-2a0de45f7073" width="100%" alt="Sky GIF banner" />
+  <img src="https://github.com/user-attachments/assets/96473ffd-a058-42ce-96bb-2a0de45f7073" width="60%" alt="Sky GIF banner" />
 </p>
-
-
-🎓 Ciência da Computação  
-💻 Foco em Front-end e desenvolvimento web  
-📚 Estudando React, JavaScript e UI responsiva  
-✨ Criando interfaces modernas com React e Tailwind CSS  
 
 ---
 
@@ -18,6 +12,11 @@
 </p>
 
 ---
+🎓 Ciência da Computação  
+💻 Foco em Front-end e desenvolvimento web  
+📚 Estudando React, JavaScript e UI responsiva  
+✨ Criando interfaces modernas com React e Tailwind CSS  
+
 
 ## 🚀 O que eu faço
 - 🌐 Desenvolvimento de sites modernos
