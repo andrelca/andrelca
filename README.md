@@ -1,8 +1,9 @@
+# Oi, eu sou André 👋
+
 <p align="center">
-  <img width="960" height="384" alt="meishodoto1" src="https://github.com/user-attachments/assets/abaa2fce-8c5a-4998-8c9d-5ca83da1a7e3" />
+  <img src="https://github.com/user-attachments/assets/96473ffd-a058-42ce-96bb-2a0de45f7073" width="100%" alt="Sky GIF banner" />
 </p>
 
-# Oi, eu sou André 👋
 
 🎓 Ciência da Computação  
 💻 Foco em Front-end e desenvolvimento web  
@@ -27,6 +28,13 @@
 
 ---
 
+## 🌟 Projetos em destaque
+- 🌱 **Econect** → dashboards e sistema financeiro
+- 🎨 **Kaleidoscope** → sites modernos e landing pages
+- 📱 **Interfaces Mobile** → adaptação responsiva e UX
+
+---
+
 ## 📫 Contato
-- 💼 LinkedIn: https://www.linkedin.com/in/andreluiscavalcantiaraujo/
+- 💼 LinkedIn: www.linkedin.com/in/andreluiscavalcantiaraujo
 - 📧 Email: andreluiscaraujo@gmail.com
