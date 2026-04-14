@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d0c85f91-2d79-44bd-8c73-ad8e71cd2178" width="100%" />
+  <img src="img width="960" height="384" alt="meishodoto1" src="https://github.com/user-attachments/assets/abaa2fce-8c5a-4998-8c9d-5ca83da1a7e3" />
+" />
 </p>
 
 # Oi, eu sou André 👋
