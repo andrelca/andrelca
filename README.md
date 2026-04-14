@@ -28,10 +28,10 @@
 ---
 
 ## 🌟 Projetos em destaque
-- 🌱 **Econect** → dashboards e sistema financeiro
-- 🎨 **Kaleidoscope** → sites modernos e landing pages
-- 📱 **Interfaces Mobile** → adaptação responsiva e UX
 
+| 🌱 Econect | 📊 Ecomonitor | 🎨 Kaleidoscope |
+|---|---|---|
+| <a href="https://econectambiental.com.br/" target="_blank"><img src="https://github.com/user-attachments/assets/c5ff5c63-a7c7-4a66-8f44-247dc2b879e2" width="250"/></a> | <a href="https://ecomonitor-econect.web.app/login" target="_blank"><img src="https://github.com/user-attachments/assets/16067d25-f365-463d-8860-eae354a4580c" width="250"/></a> | <a href="https://kaleidoscope.com.br/" target="_blank"><img src="https://github.com/user-attachments/assets/849312b7-de8f-41f1-a61b-60f41510861b" width="250"/></a> |
 ---
 
 ## 📫 Contato
