@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="img width="960" height="384" alt="meishodoto1" src="https://github.com/user-attachments/assets/abaa2fce-8c5a-4998-8c9d-5ca83da1a7e3" />
-" />
+  <img width="960" height="384" alt="meishodoto1" src="https://github.com/user-attachments/assets/abaa2fce-8c5a-4998-8c9d-5ca83da1a7e3" />
 </p>
 
 # Oi, eu sou André 👋
@@ -13,7 +12,6 @@
 ---
 
 ## 🛠️ Tecnologias
-
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,react,tailwind,html,css,git,github,vscode,figma" />
 </p>
