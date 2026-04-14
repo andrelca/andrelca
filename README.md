@@ -4,6 +4,12 @@
   <img src="https://github.com/user-attachments/assets/96473ffd-a058-42ce-96bb-2a0de45f7073" width="60%" alt="Sky GIF banner" />
 </p>
 
+<p align="center">
+  <a href="https://andrelca.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/meu%20portfolio%20%F0%9F%98%81-0078D4?style=for-the-badge&logo=react&logoColor=white" alt="Meu Portfolio">
+  </a>
+</p>
+
 ---
 
 ## 🛠️ Tecnologias
@@ -35,5 +41,5 @@
 ---
 
 ## 📫 Contato
-- 💼 LinkedIn: www.linkedin.com/in/andreluiscavalcantiaraujo
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/andreluiscavalcantiaraujo)
 - 📧 Email: andreluiscaraujo@gmail.com
