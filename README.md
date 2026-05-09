@@ -15,7 +15,7 @@
 ## 🛠️ Tecnologias
 <p>
  <p>
-  <img src="https://skillicons.dev/icons?i=java,js,react,tailwind,html,css,vite,mysql,git,github,vscode,figma,eclipse,netbeans,linux" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,tailwind,html,css,vite,mysql,git,github,vscode,figma,eclipse,linux" />
 </p>
 </p>
 
